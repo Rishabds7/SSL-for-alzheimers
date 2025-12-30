@@ -113,5 +113,5 @@ After fine-tuning on four downstream tasks:
 ---
 
 ## Reference
-For the full project write-up, visualizations, and results, visit the official project website:  
-[SSL for Brain MRI Analysis – Project Site](https://sites.google.com/view/sslmri/home)
+For the full project write up, visualizations, and results, visit the official project website:  
+https://huggingface.co/spaces/Piyushg7/AI4Alzheimers
