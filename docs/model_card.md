@@ -4,7 +4,7 @@
 
 **Model name:** SSL for Alzheimer's  
 **Model type:** Convolutional neural network encoder trained via self-supervised contrastive learning  
-**Training framework:\** SimCLR (Simple Framework for Contrastive Learning of Visual Representations)  
+**Training framework:** SimCLR (Simple Framework for Contrastive Learning of Visual Representations)  
 **Backbone architecture:** ResNet-50  
 **Framework:** PyTorch  
 
