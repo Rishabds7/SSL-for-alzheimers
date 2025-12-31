@@ -115,3 +115,24 @@ After fine-tuning on four downstream tasks:
 ## Reference
 For the full project write up, visualizations, and results, visit the official project website:  
 https://huggingface.co/spaces/Piyushg7/AI4Alzheimers
+
+**Datasets Used:**
+
+**1) Alzheimer**
+
+https://www.kaggle.com/datasets/ninadaithal/imagesoasis
+
+**2) Brain Tumor**
+
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
+**3) Parkinson**
+
+https://www.kaggle.com/datasets/irfansheriff/parkinsons-brain-mri-dataset
+
+
+**4) Multiple Sclerosis**
+
+https://www.kaggle.com/datasets/orvile/multiple-sclerosis-brain-mri-lesion-segmentation
+
+
